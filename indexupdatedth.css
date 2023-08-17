@@ -1,0 +1,31 @@
+body{
+    background-image: url("./images/logoWhite.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -80px;
+}
+#transparent{
+    background-color: rgba(226, 231, 236,0.3);
+   
+}
+#div{
+    background-color:rgba(42, 42, 42, 0.6);
+}
+#textarea{
+    background-color:rgb(91, 91, 91,0.5);
+  
+    
+}
+#postbtn{
+    border-radius: 25px;
+}
+.topics{
+    font-weight: 900;
+    color:white;
+    font-size: 29px;
+}
+#btn{
+    width: 500px;
+    border-radius: 50px;
+}
